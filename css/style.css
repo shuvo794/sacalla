@@ -90,9 +90,11 @@ p {
     transform-origin: 50% 0;
     transform-style: preserve-3d;
     border-radius: 1px;
+  /* margin-bottom: 50px; */
+  margin-left: -35px;
 }
 
-.section-btn a span::before {
+/* .section-btn a span::before {
     position: absolute;
     top: 100%;
     left: 0;
@@ -105,12 +107,12 @@ p {
     transform-style: preserve-3d;
     border-radius: 1px;
     content: attr(data-hover);
-}
+} */
 
-.section-btn a:hover span,
+/* .section-btn a:hover span,
 .section-btn a:focus span {
     transform: rotateX(90deg) translateY(-22px);
-}
+} */
 
 
 /*-----------
