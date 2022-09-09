@@ -285,7 +285,12 @@ footer {
     position: relative;
 }
 
-
+#email{
+    margin-left: 4px;
+}
+#custom{
+    width: 740px;
+}
 /* -------------------------
              Footer
 -------------------------- */
