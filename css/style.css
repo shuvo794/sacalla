@@ -91,9 +91,11 @@ p {
     transform-style: preserve-3d;
     border-radius: 1px;
   /* margin-bottom: 50px; */
-  margin-left: -35px;
+  
 }
-
+#sand{
+    margin-left: -35px;
+}
 /* .section-btn a span::before {
     position: absolute;
     top: 100%;
